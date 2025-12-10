@@ -1,4 +1,4 @@
-.name: Test Flaky Pipeline
+name: Test Flaky Pipeline
 
 on:
   push:
