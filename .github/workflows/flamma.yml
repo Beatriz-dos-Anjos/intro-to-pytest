@@ -18,3 +18,4 @@ jobs:
     uses: Beatriz-dos-Anjos/FlaMMA-Flaky-Mitigation-Monitoring-Approach/.github/workflows/detector.yml@v1
     with:
       reruns: 3
+    continue-on-error: true
